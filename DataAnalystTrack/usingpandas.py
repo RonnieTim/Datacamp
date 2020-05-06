@@ -42,4 +42,3 @@ pd.DataFrame.hist(data[['Age']])
 plt.xlabel('Age (years)')
 plt.ylabel('count')
 plt.show()
-
