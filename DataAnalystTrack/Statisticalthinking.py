@@ -1323,4 +1323,3 @@ p = np.sum(perm_replicates >= heritability_scandens) / len(perm_replicates)
 print('p-val =', p)
 
 
-
